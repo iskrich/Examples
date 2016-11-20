@@ -1,1 +1,1 @@
-..\..\..\YaccConstructor\lkg\FSharp.PowerPack-1.9.7.7\bin\FsLex.exe EbnfIso.fsl --unicode -o EbnfLexer.fs 
+..\packages\YC.SDK.0.1.0.0-beta2\tools\YC.FSLEx.exe EbnfIso.fsl --unicode -o EbnfLexer.fs

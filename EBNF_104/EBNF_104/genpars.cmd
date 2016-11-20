@@ -1,1 +1,1 @@
-..\..\..\YaccConstructor\Bin\Debug\v40\YC.YaccConstructor.exe -i EbnfIso.yrd
+..\packages\YC.SDK.0.1.0.0-beta2\tools\YC.YaccConstructor.exe -i EbnfIso.yrd

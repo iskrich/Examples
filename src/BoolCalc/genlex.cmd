@@ -1,0 +1,1 @@
+..\packages\YC.SDK.0.1.0.0-beta2\tools\YC.FSLEx.exe BoolCalc.fsl --unicode -o BoolCalcLexer.fs 
